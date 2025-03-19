@@ -1,4 +1,4 @@
-package com.example.learnjava.springMvc;
+package com.example.learnjava.springmvc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringMvcApplication {
 
 	public static void main(String[] args) {
-		System.out.println("🚀 Spring Boot đang khởi động...");
 		SpringApplication.run(SpringMvcApplication.class, args);
 	}
 }
